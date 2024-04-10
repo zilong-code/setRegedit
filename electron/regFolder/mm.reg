@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.mm]
+@="xunjie_mindmap"
+
+[HKEY_CLASSES_ROOT\xunjie_mindmap\shell\open\command]
+@="C:\\Users\\haidong\\AppData\\Roaming\\HuDun\\XJSiWeiDaoTu\\xunjie_mindmap.exe \"%1\" \"Preview\""
+
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mm\UserChoice]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.mm\UserChoice]
+"Hash"="mRngFltqE1c="
+"ProgId"="xunjie_mindmap"
